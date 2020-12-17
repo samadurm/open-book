@@ -1,7 +1,7 @@
 # open-book
 
 # Clone
-To clone the entire project, run
+To clone the entire project, run <br>
 git clone --recurse-submodules https://github.com/samadurm/open-book.git
 
 # Update Entire Workspace
