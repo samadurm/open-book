@@ -1,0 +1,6 @@
+[submodule "open-book-frontend"]
+	path = open-book-frontend
+	url = https://github.com/samadurm/open-book-frontend
+[submodule "open-book-backend"]
+	path = open-book-backend
+	url = https://github.com/samadurm/open-book-backend
